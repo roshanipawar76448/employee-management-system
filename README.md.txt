@@ -16,13 +16,5 @@
 - Role-Based Access Control
 - Dashboard Analytics
 
-## Project Structure
-
-Employee-Management-System
-├── backend
-│   └── employee-management
-└── frontend
-    └── ems-frontend
-
 ## Author
 Roshani Pawar
